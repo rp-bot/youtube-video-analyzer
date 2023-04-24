@@ -1,0 +1,367 @@
+[
+    {
+        "video_url": "XZo4xyJXCak",
+        "video_title": "Introduction to Statistics",
+        "video_index": 0
+    },
+    {
+        "video_url": "VHYOuWu9jQI",
+        "video_title": "Descriptive Statistics vs Inferential Statistics",
+        "video_index": 1
+    },
+    {
+        "video_url": "5rUVYWfZOb8",
+        "video_title": "Qualitative and Quantitative",
+        "video_index": 2
+    },
+    {
+        "video_url": "Mb9BuEkbaHQ",
+        "video_title": "Statistic vs Parameter & Population vs Sample",
+        "video_index": 3
+    },
+    {
+        "video_url": "LuBD49SFpWs",
+        "video_title": "Scales of Measurement - Nominal, Ordinal, Interval, & Ratio Scale Data",
+        "video_index": 4
+    },
+    {
+        "video_url": "A1mQ9kD-i9I",
+        "video_title": "Mean, Median, Mode, and Range - How To Find It!",
+        "video_index": 5
+    },
+    {
+        "video_url": "LdrBNhWw9AM",
+        "video_title": "How To Find The Weighted Mean and Weighted Average In Statistics",
+        "video_index": 6
+    },
+    {
+        "video_url": "k17_euuiTKw",
+        "video_title": "Calculating The Standard Deviation, Mean, Median, Mode, Range, & Variance Using Excel",
+        "video_index": 7
+    },
+    {
+        "video_url": "lyRbCwDDnJo",
+        "video_title": "How To Make a Simple Frequency Table",
+        "video_index": 8
+    },
+    {
+        "video_url": "gq3FPpm2yvA",
+        "video_title": "How To Make a Relative Frequency Distribution Table",
+        "video_index": 9
+    },
+    {
+        "video_url": "6hJGa4Zp62M",
+        "video_title": "How To Make a Cumulative Relative Frequency Table",
+        "video_index": 10
+    },
+    {
+        "video_url": "Iu17mY1VfZU",
+        "video_title": "Dot Plots and Frequency Tables",
+        "video_index": 11
+    },
+    {
+        "video_url": "MUCvUgGfzdo",
+        "video_title": "Stem and Leaf Plots",
+        "video_index": 12
+    },
+    {
+        "video_url": "wkAjnGmRPVo",
+        "video_title": "Side by Side Stem and Leaf Plots",
+        "video_index": 13
+    },
+    {
+        "video_url": "AndS0RLdxtk",
+        "video_title": "How To Make a Histogram Using a Frequency Distribution Table",
+        "video_index": 14
+    },
+    {
+        "video_url": "y7Wb9AjbRjo",
+        "video_title": "How To Make a Frequency Polygon",
+        "video_index": 15
+    },
+    {
+        "video_url": "40o82o3uNfk",
+        "video_title": "Quartiles, Deciles, & Percentiles With Cumulative Relative Frequency - Data & Statistics",
+        "video_index": 16
+    },
+    {
+        "video_url": "STSP8gTSdT8",
+        "video_title": "How To Find The Interquartile Range & any Outliers - Descriptive Statistics",
+        "video_index": 17
+    },
+    {
+        "video_url": "U0NZu6f5TMI",
+        "video_title": "Skewness - Right, Left & Symmetric Distribution - Mean, Median, & Mode With Boxplots - Statistics",
+        "video_index": 18
+    },
+    {
+        "video_url": "cmtBUWCC-6A",
+        "video_title": "Sample Mean and Population Mean - Statistics",
+        "video_index": 19
+    },
+    {
+        "video_url": "zjHfAhcU6kE",
+        "video_title": "Mean, Median, and Mode of Grouped Data & Frequency Distribution Tables   Statistics",
+        "video_index": 20
+    },
+    {
+        "video_url": "IaTFpp-uzp0",
+        "video_title": "How To Calculate The Standard Deviation",
+        "video_index": 21
+    },
+    {
+        "video_url": "IHVUbvO0aT0",
+        "video_title": "Variance and Standard Deviation With Microsoft Excel - Descriptive Statistics",
+        "video_index": 22
+    },
+    {
+        "video_url": "deIQeQzPK08",
+        "video_title": "How To Calculate Variance",
+        "video_index": 23
+    },
+    {
+        "video_url": "x6Pnf57wRAs",
+        "video_title": "Standard Deviation of Grouped Data",
+        "video_index": 24
+    },
+    {
+        "video_url": "SkidyDQuupA",
+        "video_title": "Introduction to Probability, Basic Overview - Sample Space, & Tree Diagrams",
+        "video_index": 25
+    },
+    {
+        "video_url": "0T-CaQCiSf4",
+        "video_title": "Probability of Complementary Events & Sample Space",
+        "video_index": 26
+    },
+    {
+        "video_url": "sqDVrXq_eh0",
+        "video_title": "Conditional Probability With Venn Diagrams & Contingency Tables",
+        "video_index": 27
+    },
+    {
+        "video_url": "lWAdPyvm400",
+        "video_title": "Probability - Independent and Dependent Events",
+        "video_index": 28
+    },
+    {
+        "video_url": "X6usGgwXFyU",
+        "video_title": "Probability of Mutually Exclusive Events With Venn Diagrams",
+        "video_index": 29
+    },
+    {
+        "video_url": "94AmzeR9n2w",
+        "video_title": "Multiplication & Addition Rule - Probability - Mutually Exclusive & Independent Events",
+        "video_index": 30
+    },
+    {
+        "video_url": "EHU6pVSczb4",
+        "video_title": "Compound Probability of Independent Events - Coins & 52 Playing Cards",
+        "video_index": 31
+    },
+    {
+        "video_url": "b6VK2VPMXNI",
+        "video_title": "How To Calculate Expected Value",
+        "video_index": 32
+    },
+    {
+        "video_url": "w4wKXVwtGac",
+        "video_title": "Probability Tree Diagrams",
+        "video_index": 33
+    },
+    {
+        "video_url": "OByl4RJxnKA",
+        "video_title": "Bayes' Theorem of Probability With Tree Diagrams & Venn Diagrams",
+        "video_index": 34
+    },
+    {
+        "video_url": "3PWKQiLK41M",
+        "video_title": "Finding The Probability of a Binomial Distribution Plus Mean & Standard Deviation",
+        "video_index": 35
+    },
+    {
+        "video_url": "d5iAWPnrH6w",
+        "video_title": "Geometric Distribution - Probability, Mean, Variance, & Standard Deviation",
+        "video_index": 36
+    },
+    {
+        "video_url": "m0o-585xwW0",
+        "video_title": "Introduction to Poisson Distribution - Probability & Statistics",
+        "video_index": 37
+    },
+    {
+        "video_url": "cz4nPSA9rlc",
+        "video_title": "Continuous vs Discrete Data",
+        "video_index": 38
+    },
+    {
+        "video_url": "QxqxdQ_g2uw",
+        "video_title": "Continuous Probability Distributions - Basic Introduction",
+        "video_index": 39
+    },
+    {
+        "video_url": "3xAIWiTJCvE",
+        "video_title": "Cumulative Distribution Functions and Probability Density Functions",
+        "video_index": 40
+    },
+    {
+        "video_url": "KfunVw-0AH0",
+        "video_title": "Continuous Probability Uniform Distribution Problems",
+        "video_index": 41
+    },
+    {
+        "video_url": "J3KSjZFVbis",
+        "video_title": "Probability Exponential Distribution Problems",
+        "video_index": 42
+    },
+    {
+        "video_url": "CjF_yQ2N638",
+        "video_title": "Standard Normal Distribution Tables, Z Scores, Probability & Empirical Rule  - Stats",
+        "video_index": 43
+    },
+    {
+        "video_url": "ihTpK6dXSas",
+        "video_title": "Law of Large Numbers",
+        "video_index": 44
+    },
+    {
+        "video_url": "4YLtvNeRIrg",
+        "video_title": "Central Limit Theorem - Sampling Distribution of Sample Means - Stats & Probability",
+        "video_index": 45
+    },
+    {
+        "video_url": "UuHqq09nTAk",
+        "video_title": "Standard Error of the Mean",
+        "video_index": 46
+    },
+    {
+        "video_url": "DT-fPG0Hff8",
+        "video_title": "How To Find The Z Score, Confidence Interval, and Margin of Error for a Population Mean",
+        "video_index": 47
+    },
+    {
+        "video_url": "sJyZ9vRhP7o",
+        "video_title": "How To Find The Z Score Given The Confidence Level of a Normal Distribution   2",
+        "video_index": 48
+    },
+    {
+        "video_url": "nkkxu09K3ZA",
+        "video_title": "How To Calculate The Sample Size Given The Confidence Level & Margin of Error",
+        "video_index": 49
+    },
+    {
+        "video_url": "MUD390jtgQs",
+        "video_title": "Student's T Distribution - Confidence Intervals & Margin of Error",
+        "video_index": 50
+    },
+    {
+        "video_url": "_aQTgv_OOSU",
+        "video_title": "Finding The Confidence Interval of a Population Proportion Using The Normal Distribution",
+        "video_index": 51
+    },
+    {
+        "video_url": "ZXq0ygaZuwg",
+        "video_title": "Chebyshev's Theorem",
+        "video_index": 52
+    },
+    {
+        "video_url": "wiYJWyfdGg4",
+        "video_title": "Hypothesis Testing - Null and Alternative Hypotheses",
+        "video_index": 53
+    },
+    {
+        "video_url": "9yQm9F2_yIk",
+        "video_title": "How To Identify Type I and Type II Errors In Statistics",
+        "video_index": 54
+    },
+    {
+        "video_url": "XHPIEp-3yC0",
+        "video_title": "One Tailed and Two Tailed Tests, Critical Values, & Significance Level - Inferential Statistics",
+        "video_index": 55
+    },
+    {
+        "video_url": "Hag0GW9B6EY",
+        "video_title": "Test Statistic For Means and Population Proportions",
+        "video_index": 56
+    },
+    {
+        "video_url": "zJ8e_wAWUzE",
+        "video_title": "Hypothesis Testing Problems - Z Test & T Statistics - One & Two Tailed Tests   2",
+        "video_index": 57
+    },
+    {
+        "video_url": "8Aw45HN5lnA",
+        "video_title": "P-Value Method For Hypothesis Testing",
+        "video_index": 58
+    },
+    {
+        "video_url": "76VruarGn2Q",
+        "video_title": "Hypothesis Testing - Solving Problems With Proportions",
+        "video_index": 59
+    },
+    {
+        "video_url": "UcZwyzwWU7o",
+        "video_title": "Hypothesis Testing - Difference of Two Means - Student's -Distribution & Normal Distribution",
+        "video_index": 60
+    },
+    {
+        "video_url": "GDe4M0xEghs",
+        "video_title": "How to find Cohen's D to determine the Effect Size Using Pooled Standard Deviation",
+        "video_index": 61
+    },
+    {
+        "video_url": "pCbNUnZ98oE",
+        "video_title": "Hypothesis Testing With Two Proportions",
+        "video_index": 62
+    },
+    {
+        "video_url": "JiQR0lHLe74",
+        "video_title": "Matched or Paired Samples T-Test - Hypothesis Testing",
+        "video_index": 63
+    },
+    {
+        "video_url": "HKDqlYSLt68",
+        "video_title": "Chi Square Test",
+        "video_index": 64
+    },
+    {
+        "video_url": "O6a76Dnn104",
+        "video_title": "Chi Square Distribution Test of a Single Variance or Standard Deviation",
+        "video_index": 65
+    },
+    {
+        "video_url": "y5nxiL6civU",
+        "video_title": "Test of Independence Using Chi-Square Distribution",
+        "video_index": 66
+    },
+    {
+        "video_url": "11c9cs6WpJU",
+        "video_title": "Correlation Coefficient",
+        "video_index": 67
+    },
+    {
+        "video_url": "P8hT5nDai6A",
+        "video_title": "Linear Regression Using Least Squares Method - Line of Best Fit Equation",
+        "video_index": 68
+    },
+    {
+        "video_url": "aRR86imVsxM",
+        "video_title": "Statistics - Excel",
+        "video_index": 69
+    },
+    {
+        "video_url": "CSJewgNUZKw",
+        "video_title": "Averages and Uncertainty Calculations",
+        "video_index": 70
+    },
+    {
+        "video_url": "AWnvUSWvARU",
+        "video_title": "Studying Tips For The Next College Semester",
+        "video_index": 71
+    },
+    {
+        "video_url": "SsA7rZ8kczM",
+        "video_title": "ACT Math Test Prep",
+        "video_index": 72
+    }
+]
